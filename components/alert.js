@@ -13,25 +13,23 @@ export default function Alert({ preview }) {
         <div className="py-2 text-center text-sm">
           {preview ? (
             <>
-              This is page is showing draft content.{" "}
+              Submit your preferred design with us{" "}
               <a
-                href="/api/exit-preview"
+                href="https://www.smartdeskph.co/"
                 className="underline hover:text-cyan duration-200 transition-colors"
               >
-                Click here
+               Store
               </a>{" "}
-              to exit preview mode.
             </>
           ) : (
             <>
-              This is page is showing published content.{" "}
+              Submit your preferred design with us{" "}
               <a
-                href="/api/preview"
+                href="https://www.smartdeskph.co/"
                 className="underline hover:text-cyan duration-200 transition-colors"
               >
-                Click here
+             Store
               </a>{" "}
-              to enter preview mode!
             </>
           )}
         </div>

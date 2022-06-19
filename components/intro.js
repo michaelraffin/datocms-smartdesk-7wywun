@@ -5,19 +5,19 @@ export default function Intro() {
         Blog.
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-        A statically generated blog example using{" "}
+       Built for last{" "}
         <a
-          href="https://nextjs.org/"
+          href="https://www.smartdeskph.co/"
           className="underline hover:text-success duration-200 transition-colors"
         >
-          Next.js
+          Dual Motor
         </a>{" "}
         and{" "}
         <a
-          href="https://www.datocms.com/"
+          href="https://www.smartdeskph.co/"
           className="underline hover:text-success duration-200 transition-colors"
         >
-          DatoCMS
+          Solid Wood Table Top
         </a>
         .
       </h4>

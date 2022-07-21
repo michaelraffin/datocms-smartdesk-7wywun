@@ -111,6 +111,7 @@ export default function Index({ subscription }) {
           )}
           {morePosts.length > 0 && <MoreStories posts={morePosts} />}
         </Container>
+        {displayGM()}
       </Layout>
     </>
   );

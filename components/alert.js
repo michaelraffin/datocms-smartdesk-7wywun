@@ -13,7 +13,7 @@ export default function Alert({ preview }) {
         <div className="py-2 text-center text-sm">
           {preview ? (
             <>
-              Submit your preferred design with us{" "}
+              Submit your preferred design with us @{" "}
               <a
                 href="https://www.smartdeskph.com/"
                 className="underline hover:text-cyan duration-200 transition-colors"
@@ -23,7 +23,7 @@ export default function Alert({ preview }) {
             </>
           ) : (
             <>
-              Submit your preferred design with us{" "}
+              Submit your preferred design with us @{" "}
               <a
                 href="https://www.smartdeskph.com/"
                 className="underline hover:text-cyan duration-200 transition-colors"

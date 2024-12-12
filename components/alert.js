@@ -15,20 +15,20 @@ export default function Alert({ preview }) {
             <>
               Submit your preferred design with us{" "}
               <a
-                href="https://www.smartdeskph.co/"
+                href="https://www.smartdeskph.com/"
                 className="underline hover:text-cyan duration-200 transition-colors"
               >
-               Store
+                Store
               </a>{" "}
             </>
           ) : (
             <>
               Submit your preferred design with us{" "}
               <a
-                href="https://www.smartdeskph.co/"
+                href="https://www.smartdeskph.com/"
                 className="underline hover:text-cyan duration-200 transition-colors"
               >
-             Store
+                Store
               </a>{" "}
             </>
           )}

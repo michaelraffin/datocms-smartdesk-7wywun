@@ -10,22 +10,23 @@ export default function Footer() {
           </h3>
           <div className="flex flex-col lg:flex-row justify-center items-center lg:pl-4 lg:w-1/2">
             <a
-              href="https://store.smartdeskph.co/"
+              href="https://store.smartdeskph.com/"
               className="mx-3 bg-black hover:bg-white hover:text-black border border-black text-white font-bold py-3 px-12 lg:px-8 duration-200 transition-colors mb-6 lg:mb-0"
-            >Store 
+            >
+              Store
             </a>
             <a
               href="https://www.facebook.com/AutonomousDesk/"
               className="mx-3 font-bold hover:underline"
             >
-             Facebook
+              Facebook
             </a>
             <a
               href="https://www.instagram.com/smartdesk.ph/"
-                // className="mx-3 bg-black hover:bg-white hover:text-black border border-black text-white font-bold py-3 px-12 lg:px-8 duration-200 transition-colors mb-6 lg:mb-0"
-                className="mx-3 font-bold hover:underline"
+              // className="mx-3 bg-black hover:bg-white hover:text-black border border-black text-white font-bold py-3 px-12 lg:px-8 duration-200 transition-colors mb-6 lg:mb-0"
+              className="mx-3 font-bold hover:underline"
             >
-             Instagram
+              Instagram
             </a>
           </div>
         </div>
